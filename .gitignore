@@ -1,0 +1,15 @@
+# 파이썬 관련 무시할 것들
+__pycache__/
+*.pyc
+
+# VSCode 설정 무시
+.vscode/
+
+# OS별 쓰레기
+.DS_Store
+
+# 로그 파일 무시
+*.log
+
+# 민감한 정보
+.env
